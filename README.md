@@ -10,7 +10,7 @@
   <a href="#Results">Results</a>
 </p>
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/export-to-mot-format)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/export-to-mot-format)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/export-to-mot-format)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/export-to-mot-format.png)](https://supervisely.com)
@@ -34,7 +34,7 @@ Application key points:
 
 
 # How to Use
-1. Add [Export to MOT](https://ecosystem.supervisely.com/apps/export-to-mot-format) to your team from Ecosystem.
+1. Add [Export to MOT](../../../../supervisely-ecosystem/export-to-mot-format) to your team from Ecosystem.
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-mot-format" src="https://imgur.com/XLOsIRN.png" width="350px" style='padding-bottom: 20px'/>  
 
